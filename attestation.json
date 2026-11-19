@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.transports",
+  "repo": "NDesumeur/neodex-plugin-transports-phone",
+  "version": "2.0.0",
+  "sha256": "f2fcbd04cb6ddddcaf4de69bfa7dd3dab2294642445bf7204c480766d90c3982",
+  "approvedAt": "2026-11-19T14:37:38.533Z",
+  "neobase": ">=4.1.0",
+  "signature": "/wj5ZP1gcTvWD+IqrMVTKadZC3c2pq1cOnwbydG8V9k0t+dk+QKJgSSK/loccOJlCX8322eV3Z/y/0ERJpLkDA=="
+}
